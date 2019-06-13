@@ -1,0 +1,100 @@
+name: redcar
+description: red car .
+
+dependencies:
+  flutter:
+    sdk: flutter
+  sqflite: any
+  path_provider: any
+  cupertino_icons: ^0.1.2
+  scoped_model: ^0.3.0
+  font_awesome_flutter: ^8.0.1
+  http: ^0.12.0
+  bubble_tab_indicator: ^0.1.4
+  folding_cell: "^0.1.0"
+  carousel_pro: ^0.0.1
+  curved_navigation_bar: ^0.1.25
+  flutter_webview_plugin: any
+  url_launcher: ^4.0.2
+  percent_indicator: "^1.0.14"
+  flutter_staggered_grid_view:
+  
+dev_dependencies:
+
+  flutter_test:
+    sdk: flutter
+  mockito: ^4.0.0
+
+  flutter_launcher_icons: ^0.7.0
+flutter_icons:
+    android: launcher_icon
+    ios: true
+    image_path: assets/logo.png
+    
+ 
+
+flutter:
+  uses-material-design: true 
+  assets:
+  - assets/aircon_control/background.png
+  - assets/aircon_control/powericon3x.png
+  - assets/aircon_control/aircon.gif
+  - assets/car_control/door_locked.png
+  - assets/car_control/door_unlocked.png
+  - assets/car_control/lock.png
+  - assets/car_control/lock.gif
+  - assets/car_control/power.gif
+  - assets/car_control/gear.gif
+  - assets/car_control/unlock.png
+  - assets/car_control/drive.png
+  - assets/car_control/handdrive.png
+  - assets/car_control/car_off.png
+  - assets/car_control/car_on.png  
+  - assets/car_control/swipe_gif.gif
+  - assets/profile/food.png
+  - assets/profile/travel.png
+  - assets/profile/music.png
+  - assets/wheel.png
+  - assets/shape1.png
+  - assets/shape2.png
+  - assets/shape3.png
+  - assets/battery.png
+  - assets/charging.png
+  - assets/air.png
+  - assets/auto.png
+  - assets/carcharicon.png
+  - assets/caruncharging.png
+  - assets/cctv.png
+  - assets/location.png
+  - assets/carcharging.png
+  - assets/circle.png
+  - assets/film.png
+  - assets/update.png
+  - assets/carcontrol.png
+  - assets/logo.png
+  - assets/elon.jpg
+  - assets/carbackground.png
+  - assets/users/user1.jpg
+  - assets/users/user2.jpg
+  - assets/users/user3.jpg
+  - assets/users/user4.jpg
+  - assets/users/user5.jpg
+  - assets/users/user6.jpg
+  - assets/users/user7.jpg
+  - assets/users/user8.jpg
+  - assets/posts/post1.jpg
+  - assets/posts/post2.jpg
+  - assets/posts/post3.jpg
+  - assets/posts/post4.jpg
+  - assets/posts/post5.jpg
+  - assets/posts/post6.jpg
+  - assets/posts/post7.jpg
+  - assets/posts/post8.jpg
+  - assets/backgroundbatch/redbatch.png
+  - assets/backgroundbatch/redbg.png
+  - assets/backgroundbatch/yellowbatch.png
+  - assets/backgroundbatch/purplebatch.png
+
+
+fonts:
+   
